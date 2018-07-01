@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bushigame2", "Assembly-CSharp.csproj", "{6A541C58-F6B5-2EE6-543C-36BBADB592E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bushigame2", "Assembly-CSharp-Editor.csproj", "{09CFBDF5-3AE8-AF43-5E04-9D55DF4BBB2F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A541C58-F6B5-2EE6-543C-36BBADB592E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A541C58-F6B5-2EE6-543C-36BBADB592E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A541C58-F6B5-2EE6-543C-36BBADB592E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A541C58-F6B5-2EE6-543C-36BBADB592E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{09CFBDF5-3AE8-AF43-5E04-9D55DF4BBB2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09CFBDF5-3AE8-AF43-5E04-9D55DF4BBB2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09CFBDF5-3AE8-AF43-5E04-9D55DF4BBB2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09CFBDF5-3AE8-AF43-5E04-9D55DF4BBB2F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
